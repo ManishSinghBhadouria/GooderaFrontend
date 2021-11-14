@@ -1,0 +1,73 @@
+.mainDiv {
+  width: 93.4%;
+  height: 250px;
+  padding: 50px;
+  background-color: #5d9cdf;
+}
+.nav {
+  color: white;
+  display: flex;
+  justify-content: space-between;
+}
+.nav1 {
+  width: 600px;
+  display: flex;
+  justify-content: space-evenly;
+}
+.nav1 > h4 {
+  margin-top: 27px;
+}
+.nav1 > div > img {
+  margin-top: 20px;
+  width: 40px;
+  height: 30px;
+}
+.nav1 > div {
+  width: 155px;
+  display: flex;
+  justify-content: space-between;
+}
+.lines {
+  color: white;
+  padding-left: 67px;
+}
+.search {
+  width: 45%;
+  margin: auto;
+  background-color: white;
+  border-radius: 15px;
+  margin-top: 85px;
+  padding: 20px;
+  border: 1px solid rgb(160, 156, 156);
+}
+.search > input {
+  background-color: transparent;
+  border: 0px solid;
+  height: 20px;
+  width: 160px;
+  color: #ccc;
+  width: 300px;
+  height: 30px;
+  margin-right: 10px;
+}
+.search > select {
+  height: 30px;
+}
+.button {
+  background-color: #f07987;
+  margin-left: 20px;
+  width: 180px;
+  height: 30px;
+  color: white;
+  border: none;
+  border-radius: 1px solid #f07987;
+  border-radius: 3px;
+  font-weight: 510;
+  cursor: pointer;
+}
+.postBtn {
+  cursor: pointer;
+}
+.post {
+  width: 700px;
+}
